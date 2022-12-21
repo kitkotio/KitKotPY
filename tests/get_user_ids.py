@@ -1,4 +1,4 @@
-from KitKot import KitKot
+from kitkot import KitKot
 
 
 kitkot = KitKot(api_key="my-api-key")
