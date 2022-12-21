@@ -9,7 +9,7 @@
 
 `pip install kitkot`
 
-📘 For more examples please check the tests folder [here](), documentation can also be found [here](https://docs.kitkot.io/)
+📘 For more examples please check the tests folder [here](https://github.com/kitkotio/KitKotPY/tree/main/tests), documentation can also be found [here](https://docs.kitkot.io/)
 ```python
 from KitKot import KitKot
 
